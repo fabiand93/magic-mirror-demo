@@ -15,7 +15,7 @@
     "handlebars": "^4.0.5",
     "jscs": "^2.11.0",
     "lodash": "^4.6.1",
-    "mongoose": "^4.4.5",
+    "mongoose": "^5.9.27",
     "nconf": "^0.8.4",
     "request": "^2.69.0"
   },
